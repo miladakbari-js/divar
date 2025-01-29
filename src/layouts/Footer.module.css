@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    text-align: center;
+    direction: ltr;
+    justify-content: center;
+    margin-top: 100px;
+    padding-top: 10px;
+    border-top: 2px solid rgb(234,234,234);
+}
+.footer a{
+    color: blue;
+    margin-right: 10px;
+}
+.footer p{
+    color: gray;
+}
